@@ -1,0 +1,5 @@
+
+{{> head}}
+{{> nav site=site nav=site.nav}}
+{{> content_home}}
+{{> footer}}

@@ -1,0 +1,5 @@
+---
+layout: layout.ax
+---
+{{> blog_list_header}}
+{{> blog_pagination}}

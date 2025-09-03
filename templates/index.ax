@@ -1,0 +1,5 @@
+---
+layout: layout.ax
+---
+{{> header_home}}
+{{> blog_list_post}}

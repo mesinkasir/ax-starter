@@ -1,0 +1,12 @@
+---
+layout: layout.ax
+---
+<article class="blog-post">
+{{> post_header}}
+{{# if image}}<img src="{{image}}" alt="{{title}}">{{/if}}
+<section class="content">
+{{{ content }}}
+</section>
+{{> post_pagination}}
+{{> tags_cloud}}
+</article>
