@@ -57,4 +57,4 @@ npm run dev
 - [Donate via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN)  
 - [Sponsor on Github](https://github.com/sponsors/mesinkasir)
 - [Coffee/Gumroad](https://creativitaz.gumroad.com/coffee)
-- 
+ 
